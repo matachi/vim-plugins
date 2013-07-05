@@ -28,3 +28,9 @@
 [submodule "vim-powerline"]
 	path = vim-powerline
 	url = https://github.com/Lokaltog/vim-powerline.git
+[submodule "numbers.vim"]
+	path = numbers.vim
+	url = https://github.com/myusuf3/numbers.vim.git
+[submodule "undotree"]
+	path = undotree
+	url = https://github.com/mbbill/undotree.git
