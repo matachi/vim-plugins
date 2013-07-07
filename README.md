@@ -3,6 +3,7 @@
 * [nerdcommenter](https://github.com/scrooloose/nerdcommenter)
 * [nerdtree](https://github.com/scrooloose/nerdtree)
 * [numbers.vim](https://github.com/myusuf3/numbers.vim)
+* [supertab](https://github.com/ervandew/supertab)
 * [undotree](https://github.com/mbbill/undotree.git)
 * [unite.vim](https://github.com/Shougo/unite.vim)
 * [vim-fugitive](https://github.com/tpope/vim-fugitive)
