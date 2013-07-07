@@ -9,7 +9,13 @@
 * [vim-fugitive](https://github.com/tpope/vim-fugitive)
 * [vim-pathogen](https://github.com/tpope/vim-pathogen)
 * [vim-powerline](https://github.com/Lokaltog/vim-powerline)
+* [vim-snipmate](https://github.com/garbas/vim-snipmate)
+* [vim-snippets](https://github.com/honza/vim-snippets)
 * [vim-surround](https://github.com/tpope/vim-surround)
 
 gist-vim dependency
-[webapi-vim](https://github.com/mattn/webapi-vim)
+* [webapi-vim](https://github.com/mattn/webapi-vim)
+
+vim-snipmate dependencies
+* [tlib_vim](https://github.com/tomtom/tlib_vim)
+* [vim-addon-mw-utils](https://github.com/marcweber/vim-addon-mw-utils)
