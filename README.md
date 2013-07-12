@@ -1,3 +1,4 @@
+* [closetag.vim](https://github.com/docunext/closetag.vim)
 * [gist-vim](https://github.com/mattn/gist-vim)
 * [jedi-vim](https://github.com/davidhalter/jedi-vim)
 * [nerdcommenter](https://github.com/scrooloose/nerdcommenter)
